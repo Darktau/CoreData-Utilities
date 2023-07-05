@@ -1,4 +1,6 @@
 # CoreData-Utilitues
 Simplify CoreData requests
 
-Few generics function to reduce code you need to write in your files
+Here are a few generic functions that can help reduce the amount of code you need to write in your files:
+
+1.
